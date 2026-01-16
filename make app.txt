@@ -1,0 +1,5 @@
+pyinstaller --noconfirm --onedir --windowed --name "ProxyFarming" --icon "icona.ico" --add-data "icona.ico;." --collect-all customtkinter --exclude-module matplotlib --exclude-module scipy --exclude-module pandas --exclude-module django --exclude-module tensorboard --hidden-import "PIL._tkinter_finder" main.py
+
+
+
+pyinstaller ProxyFarming.spec
