@@ -1,0 +1,13 @@
+build/
+dist/
+*.spec
+
+# Fitxers de Python (cache)
+__pycache__/
+*.py[cod]
+
+
+# Entorns virtuals
+venv/
+.venv/
+env/
