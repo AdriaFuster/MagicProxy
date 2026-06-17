@@ -6,7 +6,7 @@ I built this because finding high-quality scans of MTG cards in Spanish can be a
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Spanish Card Downloader:** Automatically fetches card images in Spanish based on card names or set lists.
 * **AI-Powered Upscaling:** Integrates with a Hugging Face model to upscale low-res scans into high-quality images.
